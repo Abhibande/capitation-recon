@@ -17,12 +17,16 @@ concurrency:
 jobs:
   close:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: capitation-recon
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
+      - name: Install packages
+        run: pip install pandas openpyxl pdfplumber reportlab anthropic pytest
       - name: Generate synthetic data
         run: python generate_data.py
       - name: Unit tests
@@ -36,15 +40,14 @@ jobs:
           mkdir -p site/screenshots
           cp out/review_console.html site/index.html
           cp out/Capitation_Recon_2026-10.xlsx out/close_memo.txt site/
-          cp docs/Capitation_Close_AI_Solution.pptx site/ || true
-          cp docs/screenshots/* site/screenshots/ || true
+          cp deck/*.png site/screenshots/ || true
       - uses: actions/upload-artifact@v4
         with:
           name: close-outputs
-          path: out/
+          path: capitation-recon/out/
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: capitation-recon/site
 
   deploy:
     needs: close
