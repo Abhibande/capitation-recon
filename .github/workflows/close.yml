@@ -1,0 +1,57 @@
+name: Run close and publish demo
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Generate synthetic data
+        run: python generate_data.py
+      - name: Unit tests
+        run: pytest -q tests
+      - name: Run October 2026 close
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python run_close.py --month 2026-10
+      - name: Assemble site
+        run: |
+          mkdir -p site/screenshots
+          cp out/review_console.html site/index.html
+          cp out/Capitation_Recon_2026-10.xlsx out/close_memo.txt site/
+          cp docs/Capitation_Close_AI_Solution.pptx site/ || true
+          cp docs/screenshots/* site/screenshots/ || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: close-outputs
+          path: out/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: close
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
