@@ -30,7 +30,7 @@ jobs:
       - name: Generate synthetic data
         run: python generate_data.py
       - name: Unit tests
-        run: pytest -q tests
+        run: python -m pytest -q tests
       - name: Run October 2026 close
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
