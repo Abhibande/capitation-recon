@@ -1,0 +1,18 @@
+October 2026 capitation close - Sunrise Health Plan
+
+Bottom line: expected capitation for 2026-10 is $2,207,992.79 on 4,253 member-months. Year to date the plan expected $21,257,441.46 and the state has remitted $21,044,792.86 at member level plus $94,327.62 in aggregate retro settlements. 99.2% of member-months reconciled automatically; 342 member-months remain open with a net variance of -$118,320.98, all assigned to a root cause (0 unexplained).
+
+Retro: the state paid $94,327.62 for Amend 2 R3 Retro Jan-Sep 2026 (RV-2026-003). Re-performing the state's calculation on its own eligibility basis gives $94,327.62 (difference $0.00), so the lump sum is verified and has been allocated to 8,858 member-months.
+
+Material open items:
+  - Unpaid: state stopped paying (likely missed term): 136 member-months, -$88,695.33 -> Enrollment Ops: Check 834 term transactions; terminate in plan system if confirmed
+  - Unpaid: member never paid by state: 47 member-months, -$21,919.59 -> State Liaison: Confirm state enrollment; file dispute with 834 evidence
+  - Rate cell mismatch: age-band transition: 63 member-months, -$13,285.37 -> State Liaison: Submit rate-cell correction to state with DOB evidence
+  - Timing: newborn retro-enrollment: 18 member-months, -$11,787.07 -> Enrollment Ops: None - state pays newborns next cycle; auto-recheck
+  - Paid for member not on plan roster: 35 member-months, $9,254.18 -> Enrollment Ops: Load missing 834 enrollment; validate eligibility
+  - Duplicate payment: 12 member-months, $6,683.98 -> Revenue Accounting: Notify state; expect recoupment
+
+Cash:
+  - Deposit for 820 8202026086079 was $18,432.17 less than the remittance total of $2,115,353.68. The 820 itself balances, so the state reduced the EFT outside the remittance (typically an offset for an unrelated recoupment or assessment). Action: request the offset notice from state treasury; carry as due-from-state.
+  - 820 8202026102950 dated 2026-10-29 for $2,255,928.21 had not reached the bank by month-end; it posted on 2026-11-02. Reconciling item only (deposit in transit).
+  - State deposit of $46,250.00 on 2026-09-14 has no matching 820. The reference prefix 'MKP' and 'MISC' description suggest a maternity kick (delivery) payment, which the state remits outside the capitation 820. Action: request the remittance advice and park in unapplied cash until identified.

@@ -1,0 +1,135 @@
+issue_type,member_id,months,note
+PLAN_MISSED_TERM,M1002789,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-05; plan roster still active
+PLAN_MISSED_TERM,M1003196,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-04; plan roster still active
+PLAN_MISSED_TERM,M1000111,2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-03; plan roster still active
+PLAN_MISSED_TERM,M1000841,2026-07;2026-08;2026-09;2026-10,State termed eff 2026-07; plan roster still active
+PLAN_MISSED_TERM,M1000404,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-05; plan roster still active
+PLAN_MISSED_TERM,M1002804,2026-07;2026-08;2026-09;2026-10,State termed eff 2026-07; plan roster still active
+PLAN_MISSED_TERM,M1002483,2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-03; plan roster still active
+PLAN_MISSED_TERM,M1003744,2026-08;2026-09;2026-10,State termed eff 2026-08; plan roster still active
+PLAN_MISSED_TERM,M1002003,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1002114,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1000866,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-04; plan roster still active
+PLAN_MISSED_TERM,M1001808,2026-08;2026-09;2026-10,State termed eff 2026-08; plan roster still active
+PLAN_MISSED_TERM,M1002602,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1002051,2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-03; plan roster still active
+PLAN_MISSED_TERM,M1002234,2026-08;2026-09;2026-10,State termed eff 2026-08; plan roster still active
+PLAN_MISSED_TERM,M1001254,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1000648,2026-07;2026-08;2026-09;2026-10,State termed eff 2026-07; plan roster still active
+PLAN_MISSED_TERM,M1003121,2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-03; plan roster still active
+PLAN_MISSED_TERM,M1003569,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1002319,2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-06; plan roster still active
+PLAN_MISSED_TERM,M1000272,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-04; plan roster still active
+PLAN_MISSED_TERM,M1003552,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-04; plan roster still active
+PLAN_MISSED_TERM,M1000666,2026-08;2026-09;2026-10,State termed eff 2026-08; plan roster still active
+PLAN_MISSED_TERM,M1002907,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State termed eff 2026-04; plan roster still active
+PLAN_MISSED_TERM,M1000181,2026-08;2026-09;2026-10,State termed eff 2026-08; plan roster still active
+STATE_ENROLLMENT_MISSING,M1004565,2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004312,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004695,2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004413,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004303,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004711,2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004679,2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004236,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004814,2026-09;2026-10,"Member on plan roster, never paid by state"
+STATE_ENROLLMENT_MISSING,M1004520,2026-06;2026-07;2026-08;2026-09;2026-10,"Member on plan roster, never paid by state"
+PLAN_ENROLLMENT_MISSING,M1004989,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004990,2026-06;2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004991,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004992,2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004993,2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004994,2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004995,2026-08;2026-09;2026-10,State paying member not on plan roster
+PLAN_ENROLLMENT_MISSING,M1004996,2026-07;2026-08;2026-09;2026-10,State paying member not on plan roster
+PAID_AFTER_TERM,M1004197,2026-07;2026-08,Plan termed after 2026-06; state recoups in 2026-10 820
+PAID_AFTER_TERM,M1003493,2026-06;2026-07,Plan termed after 2026-05; state recoups in 2026-09 820
+PAID_AFTER_TERM,M1003488,2026-08;2026-09,Plan termed after 2026-07; not yet recouped
+PAID_AFTER_TERM,M1001869,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+PAID_AFTER_TERM,M1004024,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+PAID_AFTER_TERM,M1001449,2026-03;2026-04,Plan termed after 2026-02; state recoups in 2026-06 820
+PAID_AFTER_TERM,M1001183,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+PAID_AFTER_TERM,M1003397,2026-04;2026-05,Plan termed after 2026-03; state recoups in 2026-07 820
+PAID_AFTER_TERM,M1002795,2026-07;2026-08,Plan termed after 2026-06; state recoups in 2026-10 820
+PAID_AFTER_TERM,M1000416,2026-03;2026-04,Plan termed after 2026-02; state recoups in 2026-06 820
+PAID_AFTER_TERM,M1001367,2026-04;2026-05,Plan termed after 2026-03; state recoups in 2026-07 820
+PAID_AFTER_TERM,M1001641,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+PAID_AFTER_TERM,M1003127,2026-08;2026-09,Plan termed after 2026-07; not yet recouped
+PAID_AFTER_TERM,M1003085,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+PAID_AFTER_TERM,M1003002,2026-05;2026-06,Plan termed after 2026-04; state recoups in 2026-08 820
+AGE_BAND_MISMATCH,M1004001,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004002,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004003,2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004004,2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004005,2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004006,2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004007,2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004008,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004009,2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004010,2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004011,2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004012,2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004013,2026-09;2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004014,2026-10,State still paying CH20 after member turned 21
+AGE_BAND_MISMATCH,M1004015,2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State still paying CH20 after member turned 21
+REGION_LAG_CORRECTED,M1004100,2026-04,State paid R1-CH20 then corrected to R2-CH20 next cycle
+REGION_LAG_CORRECTED,M1002781,2026-04,State paid R4-EXP then corrected to R2-EXP next cycle
+REGION_LAG_CORRECTED,M1003441,2026-05,State paid R1-SSI then corrected to R3-SSI next cycle
+REGION_LAG_CORRECTED,M1001116,2026-03,State paid R2-CH20 then corrected to R1-CH20 next cycle
+REGION_LAG_CORRECTED,M1002275,2026-04,State paid R1-CH20 then corrected to R3-CH20 next cycle
+REGION_LAG_CORRECTED,M1003082,2026-05,State paid R3-ADF then corrected to R4-ADF next cycle
+REGION_LAG_CORRECTED,M1001250,2026-08,State paid R4-SSI then corrected to R2-SSI next cycle
+REGION_LAG_CORRECTED,M1004322,2026-08,State paid R3-CH01 then corrected to R1-CH01 next cycle
+REGION_LAG_CORRECTED,M1003579,2026-03,State paid R4-ADM then corrected to R2-ADM next cycle
+REGION_LAG_CORRECTED,M1001001,2026-05,State paid R2-EXP then corrected to R4-EXP next cycle
+REGION_LAG_CORRECTED,M1001570,2026-05,State paid R4-ADM then corrected to R1-ADM next cycle
+REGION_LAG_CORRECTED,M1001415,2026-03,State paid R2-ADF then corrected to R1-ADF next cycle
+REGION_LAG_CORRECTED,M1000488,2026-04,State paid R4-EXP then corrected to R3-EXP next cycle
+REGION_LAG_CORRECTED,M1000634,2026-03,State paid R4-ADF then corrected to R3-ADF next cycle
+REGION_LAG_CORRECTED,M1002239,2026-02,State paid R2-CH20 then corrected to R1-CH20 next cycle
+REGION_LAG_CORRECTED,M1002050,2026-03,State paid R3-CH20 then corrected to R2-CH20 next cycle
+REGION_LAG_CORRECTED,M1002676,2026-08,State paid R3-EXP then corrected to R2-EXP next cycle
+REGION_LAG_CORRECTED,M1003366,2026-02,State paid R1-EXP then corrected to R4-EXP next cycle
+REGION_LAG_CORRECTED,M1003288,2026-03,State paid R1-EXP then corrected to R4-EXP next cycle
+REGION_LAG_CORRECTED,M1000988,2026-05,State paid R3-EXP then corrected to R2-EXP next cycle
+REGION_MISMATCH,M1000235,2026-04;2026-05;2026-06;2026-07,State never updated member region
+REGION_MISMATCH,M1002961,2026-04;2026-05;2026-06,State never updated member region
+REGION_MISMATCH,M1000327,2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09;2026-10,State never updated member region
+REGION_MISMATCH,M1003060,2026-07;2026-08;2026-09;2026-10,State never updated member region
+REGION_MISMATCH,M1003746,2026-07;2026-08;2026-09;2026-10,State never updated member region
+REGION_MISMATCH,M1003510,2026-07;2026-08;2026-09;2026-10,State never updated member region
+TIMING_NEWBORN,M1004981,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004988,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004985,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004974,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004977,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004971,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004986,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004975,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004983,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004972,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004978,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004984,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004980,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004976,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004987,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004979,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004982,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+TIMING_NEWBORN,M1004973,2026-10,Newborn retro-enrolled by state next cycle (Nov 820)
+RATE_LAG_AMEND1,*,2026-07,State paid July SSI/EXP at pre-amendment rates; caught up in Sep 820
+DUPLICATE_PAYMENT,M1001740,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1004067,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1001520,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1004340,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1003031,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1001327,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1001065,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1003409,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1001122,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1003373,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1002232,2026-05,Member paid twice in May 820
+DUPLICATE_PAYMENT,M1000566,2026-05,Member paid twice in May 820
+RATE_RETRO_AMEND2,*,2026-01;2026-02;2026-03;2026-04;2026-05;2026-06;2026-07;2026-08;2026-09,"Region 3 +2.1% retro; state lump sum 94,327.62 in Oct 820"
+CASH_SHORT,*,2026-08,"Aug EFT short 18,432.17 vs 820 (state offset)"
+CASH_IN_TRANSIT,*,2026-10,Oct 820 dated 10/29 deposited 11/02
+UNMATCHED_DEPOSIT,*,2026-09,State deposit with no 820 (likely maternity kick payment)
